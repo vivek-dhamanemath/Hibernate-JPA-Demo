@@ -1,6 +1,3 @@
-
-```
-
 # Hibernate JPA Project
 
 ## Overview
@@ -14,8 +11,6 @@ This project demonstrates the use of Java Persistence API (JPA) with Hibernate a
 JPA is a specification for accessing, persisting, and managing data between Java objects and a relational database. It provides a platform-independent and standardized way to interact with databases.
 
 ### Why Use JPA?
-- **Simplifies Database Interaction**: JPA abstracts the database interactions, making it easier to perform CRUD operations without writing complex SQL queries.
-- **Portability**: JPA is a standard specification, so the code is portable across different JPA implementations (e.g., Hibernate, EclipseLink).
 - **Productivity**: Reduces boilerplate code and increases developer productivity.
 
 ### JPA in Hibernate
